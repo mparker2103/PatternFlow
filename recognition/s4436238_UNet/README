@@ -1,2 +1,7 @@
 #README - Improved UNet on ISIC Dataset
 ### Molly Parker s4436238
+
+
+U-Net: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/#:~:text=The%20u%2Dnet%20is%20convolutional,and%20precise%20segmentation%20of%20images.&text=U%2Dnet%20architecture%20(example%20for,on%20top%20of%20the%20box.
+
+Improved UNet: https://arxiv.org/pdf/1802.10508v1.pdf
